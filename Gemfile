@@ -65,5 +65,5 @@ gem 'octicons'
 gem 'octicons_helper'
 gem 'awesome_print'
 
-gem 'active_attack', '~> 0.1.14'
-gem 'active_stix', '~> 0.1.21'
+gem 'active_stix'
+gem 'active_attack'
