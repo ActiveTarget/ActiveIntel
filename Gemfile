@@ -65,5 +65,5 @@ gem 'octicons'
 gem 'octicons_helper'
 gem 'awesome_print'
 
-gem 'active_stix', path: "/Users/adalton/projects/panacea/ActiveStix"
-gem 'active_attack', path: "/Users/adalton/projects/panacea/ActiveAttack"
+gem 'active_attack', '~> 0.1.14'
+gem 'active_stix', '~> 0.1.21'
