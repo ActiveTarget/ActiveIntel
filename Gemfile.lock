@@ -37,7 +37,7 @@ GEM
       erubi (~> 1.4)
       rails-dom-testing (~> 2.0)
       rails-html-sanitizer (~> 1.1, >= 1.2.0)
-    active_attack (0.1.14)
+    active_attack (0.1.15)
       active_stix
       bootstrap (~> 4.3.1)
       jquery-rails (~> 4.3, >= 4.3.3)
@@ -238,7 +238,7 @@ PLATFORMS
   ruby
 
 DEPENDENCIES
-  active_attack
+  active_attack (= 0.1.15)
   active_stix
   awesome_print
   bootsnap (>= 1.4.2)
